@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/inspirit941-kakao-bot-mcp-server-badge.png)](https://mseep.ai/app/inspirit941-kakao-bot-mcp-server)
+
 ## Kakao Bot MCP Server
 
 <!-- TOC -->
